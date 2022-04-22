@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-image {
+    width: 200px;
+}
+
+* {
+    font-family: Montserrat, serif;
+}
+
+.product-card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
